@@ -59,7 +59,7 @@ respuesta=input("\n Respuesta SI o NO: ")
 if respuesta.upper() == "SI":
     print("\nTendras que escribir las letras para adivinar la palabra.")
     print("Tienes 5 vidas, si la letra es incorrecta, se descontaran vidas.")
-    print("MUCHA SUERTE!!")
+    print("\nMUCHA SUERTE!!")
 else:
     print("\n¡No hay problema! ¡Te esperamos en otro momento!")
     
